@@ -1,4 +1,4 @@
-// Array of motivational quotes
+//Array of motivational quotes
 const motivationalQuotes = [
     "Believe you can and you're halfway there.",
     "Success is not final, failure is not fatal: It is the courage to continue that counts.",
