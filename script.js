@@ -35,4 +35,4 @@ const footerQuotes =[
     "Do something today that your future self will thank you for.",
     "Success is the sum of small efforts, repeated day in and day out.",
 ];
-document.getElementById("randomQuotefooter").innerText =footerQuotes[Math.floor(Math.random() * footerQuotes.length)];
+document.getElementById("randomQuoteFooter").innerText =footerQuotes[Math.floor(Math.random() * footerQuotes.length)];
